@@ -4,7 +4,7 @@ def main():
   #quotes = f.readlines()
   f.close()
 
-  print(quotes)
+  print(quotes[0])
 
   if__name__== "__main__":
   main()
